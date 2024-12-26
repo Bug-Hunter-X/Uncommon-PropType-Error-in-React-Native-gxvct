@@ -1,0 +1,1 @@
+This error occurs when you use a component that doesn't support certain props or when you pass incorrect data types to a component's props. For example, passing a string to a prop expecting a number, or passing an object to a prop expecting an array.
